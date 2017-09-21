@@ -1,0 +1,48 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Magnetic_Structure_Recording_Fidelity_Greigite.aux
+The style file: elsarticle-harv.bst
+Database file #1: references.bib
+Warning--empty journal in Nagy2017
+You've used 41 entries,
+            2821 wiz_defined-function locations,
+            953 strings with 14218 characters,
+and the built_in function-call counts, 22617 in all, are:
+= -- 2253
+> -- 1366
+< -- 20
++ -- 515
+- -- 468
+* -- 2186
+:= -- 4085
+add.period$ -- 124
+call.type$ -- 41
+change.case$ -- 363
+chr.to.int$ -- 41
+cite$ -- 42
+duplicate$ -- 732
+empty$ -- 1383
+format.name$ -- 600
+if$ -- 4424
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 41
+newline$ -- 165
+num.names$ -- 166
+pop$ -- 322
+preamble$ -- 1
+purify$ -- 319
+quote$ -- 0
+skip$ -- 532
+stack$ -- 0
+substring$ -- 1286
+swap$ -- 98
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 363
+warning$ -- 1
+while$ -- 185
+width$ -- 0
+write$ -- 491
+(There was 1 warning)
