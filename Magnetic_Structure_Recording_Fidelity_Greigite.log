@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.24)  21 SEP 2017 11:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.24)  9 OCT 2017 15:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -198,18 +198,18 @@ Package caption3 Info: TeX engine: e-TeX on input line 67.
 (./Magnetic_Structure_Recording_Fidelity_Greigite.aux)
 \openout1 = `Magnetic_Structure_Recording_Fidelity_Greigite.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -279,105 +279,88 @@ Package caption Info: End \AtBeginDocument code.
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Overfull \hbox (14.02835pt too wide) in paragraph at lines 74--75
+Overfull \hbox (14.02835pt too wide) in paragraph at lines 75--76
 []\OT1/cmr/m/n/10 For a fer-ro-mag-netic (in the broad sense, i.e., ferro- or f
 erri-) ma-te-rial|neglecting
  []
 
-
-Overfull \hbox (7.14488pt too wide) in paragraph at lines 92--93
-[]\OT1/cmr/m/n/10 with $\OML/cmm/m/it/10 ^^M[]$ \OT1/cmr/m/n/10 the di-rec-tion
- cosines, is the MCA en-ergy den-sity in the cu-bic anisotropy
- []
-
-[4] [5] [6] [7] [8] [9]
-Overfull \hbox (6.72968pt too wide) in paragraph at lines 215--216
-[]\OT1/cmr/m/n/10 The SD state at $\OML/cmm/m/it/10 d[] \OT1/cmr/m/n/10 = 68 []
-$ (Fig. 4[]a) shows sig-nif-i-cant flow-er-ing|deflection
- []
-
-[10] [11] [12] [13] [14] [15] [16] [17] [18]
-Overfull \hbox (0.22284pt too wide) in paragraph at lines 353--353
-[]\OT1/cmr/m/n/10 These cal-cu-la-tions show that equidis-tant, non-interacting
-, room-temperature
- []
-
-[19] [20] [21] (./Magnetic_Structure_Recording_Fidelity_Greigite.bbl [22]
+[4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+[20] [21] [22] (./Magnetic_Structure_Recording_Fidelity_Greigite.bbl [23]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 
-[23] [24] [25] [26] [27]) [28]
+[24] [25] [26] [27]) [28]
 <./figs/Figure_01.pdf, id=113, 540.45389pt x 355.54906pt>
 File: ./figs/Figure_01.pdf Graphic file (type pdf)
 
 <use ./figs/Figure_01.pdf>
-Package pdftex.def Info: ./figs/Figure_01.pdf used on input line 387.
+Package pdftex.def Info: ./figs/Figure_01.pdf used on input line 371.
 (pdftex.def)             Requested size: 345.0pt x 226.97011pt.
 
 <./figs/Figure_02.pdf, id=114, 539.85693pt x 582.4962pt>
 File: ./figs/Figure_02.pdf Graphic file (type pdf)
 
 <use ./figs/Figure_02.pdf>
-Package pdftex.def Info: ./figs/Figure_02.pdf used on input line 401.
+Package pdftex.def Info: ./figs/Figure_02.pdf used on input line 385.
 (pdftex.def)             Requested size: 345.0pt x 372.25412pt.
 
 
-LaTeX Warning: Float too large for page by 17.5041pt on input line 404.
+LaTeX Warning: Float too large for page by 17.5041pt on input line 388.
 
 <./figs/Figure_03.pdf, id=115, 540.43507pt x 494.18225pt>
 File: ./figs/Figure_03.pdf Graphic file (type pdf)
 
 <use ./figs/Figure_03.pdf>
-Package pdftex.def Info: ./figs/Figure_03.pdf used on input line 414.
+Package pdftex.def Info: ./figs/Figure_03.pdf used on input line 398.
 (pdftex.def)             Requested size: 345.0pt x 315.4838pt.
 
 <./figs/Figure_04.pdf, id=116, 540.5796pt x 432.8973pt>
 File: ./figs/Figure_04.pdf Graphic file (type pdf)
 
 <use ./figs/Figure_04.pdf>
-Package pdftex.def Info: ./figs/Figure_04.pdf used on input line 427.
+Package pdftex.def Info: ./figs/Figure_04.pdf used on input line 411.
 (pdftex.def)             Requested size: 345.0pt x 276.28049pt.
 
 <./figs/Figure_05.pdf, id=117, 540.5796pt x 402.54391pt>
 File: ./figs/Figure_05.pdf Graphic file (type pdf)
 
 <use ./figs/Figure_05.pdf>
-Package pdftex.def Info: ./figs/Figure_05.pdf used on input line 440.
+Package pdftex.def Info: ./figs/Figure_05.pdf used on input line 424.
 (pdftex.def)             Requested size: 345.0pt x 256.90857pt.
 
 <./figs/Figure_06.pdf, id=118, 540.93002pt x 518.30002pt>
 File: ./figs/Figure_06.pdf Graphic file (type pdf)
 
 <use ./figs/Figure_06.pdf>
-Package pdftex.def Info: ./figs/Figure_06.pdf used on input line 453.
+Package pdftex.def Info: ./figs/Figure_06.pdf used on input line 437.
 (pdftex.def)             Requested size: 345.0pt x 330.57994pt.
 
 
-LaTeX Warning: Float too large for page by 18.57993pt on input line 456.
+LaTeX Warning: Float too large for page by 18.57993pt on input line 440.
 
 <./figs/Figure_07.pdf, id=119, 540.5796pt x 501.55379pt>
 File: ./figs/Figure_07.pdf Graphic file (type pdf)
 
 <use ./figs/Figure_07.pdf>
-Package pdftex.def Info: ./figs/Figure_07.pdf used on input line 466.
+Package pdftex.def Info: ./figs/Figure_07.pdf used on input line 450.
 (pdftex.def)             Requested size: 345.0pt x 320.09792pt.
 
 
-LaTeX Warning: Float too large for page by 22.3479pt on input line 469.
+LaTeX Warning: Float too large for page by 22.3479pt on input line 453.
 
 <./figs/Figure_08.pdf, id=120, 540.93002pt x 499.32pt>
 File: ./figs/Figure_08.pdf Graphic file (type pdf)
 
 <use ./figs/Figure_08.pdf>
-Package pdftex.def Info: ./figs/Figure_08.pdf used on input line 479.
+Package pdftex.def Info: ./figs/Figure_08.pdf used on input line 463.
 (pdftex.def)             Requested size: 345.0pt x 318.4742pt.
 
 <./figs/Figure_09.pdf, id=121, 540.43507pt x 424.65851pt>
 File: ./figs/Figure_09.pdf Graphic file (type pdf)
 
 <use ./figs/Figure_09.pdf>
-Package pdftex.def Info: ./figs/Figure_09.pdf used on input line 492.
+Package pdftex.def Info: ./figs/Figure_09.pdf used on input line 476.
 (pdftex.def)             Requested size: 345.0pt x 271.10013pt.
  [29 <./figs/Figure_01.pdf>] [30 <./figs/Figure_02.pdf>] [31 <./figs/Figure_03.
 pdf>] [32 <./figs/Figure_04.pdf>] [33 <./figs/Figure_05.pdf>] [34 <./figs/Figur
@@ -385,10 +368,10 @@ e_06.pdf>] [35 <./figs/Figure_07.pdf>] [36 <./figs/Figure_08.pdf>] [37 <./figs/
 Figure_09.pdf>]
 (./Magnetic_Structure_Recording_Fidelity_Greigite.aux) ) 
 Here is how much of TeX's memory you used:
- 4262 strings out of 494953
- 62121 string characters out of 6180977
- 152528 words of memory out of 5000000
- 7472 multiletter control sequences out of 15000+600000
+ 4263 strings out of 494953
+ 62123 string characters out of 6180977
+ 152531 words of memory out of 5000000
+ 7473 multiletter control sequences out of 15000+600000
  14483 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,13n,39p,1999b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -416,7 +399,7 @@ sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
 Output written on Magnetic_Structure_Recording_Fidelity_Greigite.pdf (37 pages,
- 6301515 bytes).
+ 6303690 bytes).
 PDF statistics:
  295 PDF objects out of 1000 (max. 8388607)
  202 compressed objects within 3 object streams
